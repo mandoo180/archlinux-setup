@@ -1,14 +1,7 @@
 alacritty
 brightnessctl
 emacs-wayland
-hyprcursor
-hypridle
-hyprland
-hyprlock
-hyprpaper
-hyprutils
 neofetch
-rofi
 tmux
 ttf-0xproto-nerd
 ttf-font-awesome
@@ -17,6 +10,8 @@ ttf-jetbrains-mono-nerd
 ttf-nerd-fonts-symbols
 ttf-nerd-fonts-symbols-mono
 unzip
-waybar
 zip
 zsh
+adobe-source-han-sans-kr-fonts
+adobe-source-han-serif-kr-fonts
+rustup
